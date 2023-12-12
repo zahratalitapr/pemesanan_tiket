@@ -20,12 +20,12 @@ use App\Http\Controllers\JadwalController;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 
-Route::get('/dashboard', function () {
-    return view('utama.dashboard');
+Route::get('/', function () {
+    return view('utama/dashboard');
 });
 
 // middleware untuk login

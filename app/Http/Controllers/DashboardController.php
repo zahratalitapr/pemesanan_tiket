@@ -8,6 +8,6 @@ class DashboardController extends Controller
 {
     //fungsi index
     public function index(){
-        return view('admin.dashboard');
+        return view('utama/dashboard');
     }
 }
