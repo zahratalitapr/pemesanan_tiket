@@ -1,0 +1,44 @@
+06 / November / 2023
+1. ngubah database di file .env
+2. membuat model armada
+3. membuat controller ArmadaController
+4. menambahkan pemanggilan fungsi di web.php
+5. membuat file index.blade.php di folder views\admin\armada
+6. menambahkan kode armada pada table armada
+
+08 / November / 2023
+1. menambahkan tombol tambah data pada fitur armada
+2. mengubah url pada fitur armada
+3. menambahkan return view pada function create di ArmadaController
+4. menambahkan route armada pada web.php
+5. membuat file create pad admin/armada
+
+09 / November / 2023
+1. Menambahkan fitur detail, delete, update
+
+10 / November / 2023
+1. Menambahkan menu jadwal
+2. menampilkan table jadwal
+3. menambahkan fitur crud pada jadwal
+
+13 / November / 2023
+1. Memperbaiki alert hapus
+2. Memperbaiki tampilan detail jadwal dan armada
+3. Menambahkan validasi
+
+15 / November / 2023
+1. Menambahkan sweet alert pada create armada dan jadwal
+
+16 / November / 
+1. Menambahkan export pdf untuk all data pada armada dan jadwal
+
+18 / November / 2023
+1. Melakukan edit pada tampilan detail jadwal dan armada
+2. Export pdf per id pada armada dan jadwal
+
+20 / November / 2023
+1. Menambahkan tampilan dashboard dengan template yang sudah
+2. Menambahkan export excel pada armada dan jadwal
+
+21/ November / 2023
+1. menambahkan fitur import excel
